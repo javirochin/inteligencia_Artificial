@@ -14,7 +14,7 @@ int main()
     for(int i=0;i<n;i++)//for para pedir los numeros
     {
         cout<<"Ingresa el valor "<<(i+1)<<" del array"<<endl;
-        cin>>a[i];//almacenar en el arreglo a en cada una de sus posiciones, segun el tamaÒo que se indique
+        cin>>a[i];//almacenar en el arreglo a en cada una de sus posiciones, segun el tama√±o que se indique
     }
     seleccion(a, n);
     imprimir(a, n);
@@ -33,7 +33,7 @@ void seleccion(int a[], int n)
         {
             if(a[j]<menor)//si se cumple que los elementos de a pos.J son menores a menor, se guarda
             {
-                menor=a[j];//menor, valor mas pequeÒo
+                menor=a[j];//menor, valor mas peque√±o
                 k=j;//se guarda la posicion para hacer intercambio
             }
         }
