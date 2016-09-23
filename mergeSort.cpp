@@ -63,7 +63,7 @@ void merge(int izq,int med,int der)
 int main()
 {
 	int num,i;
-	cout<<"Tamaño del array:"<<endl;
+	cout<<"TamaÃ±o del array:"<<endl;
 	cin>>num;
 	cout<<endl;
 	cout<<"Ingresa un numero:"<<endl;
