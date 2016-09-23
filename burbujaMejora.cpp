@@ -6,9 +6,9 @@ using namespace std;
 int main()
 {
     //DECLARACIONES DE VARIABLES.
-    const int tAr = 6;//tAr, tamaño del array
+    const int tAr = 6;//tAr, tamaÃ±o del array
     int A[6] = {5,19,4,0,21,2};
-    //NO FUNCIONA SI SE PONE UNA CONSTANTE COMO TAMAÑO DEL ARRAY
+    //NO FUNCIONA SI SE PONE UNA CONSTANTE COMO TAMAÃ‘O DEL ARRAY
     int i, j, temp, ord;
     //TERMINA DEFINICION
 
