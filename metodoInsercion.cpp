@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 {
 	int A[10],n,i,j,aux;
 
-	cout<<"Tamaño del array: "<<endl;
+	cout<<"TamaÃ±o del array: "<<endl;
 	cin>>n;
 
 	cout<<endl<<"Introduce un numero: "<<endl;
