@@ -11,7 +11,7 @@ void shellSort(int [], int n);
 int main()
 {
     int n;
-    cout<<"Tamaño del arreglo:"<<endl;
+    cout<<"TamaÃ±o del arreglo:"<<endl;
     cin>>n;
     cout<<"\nIngresa los numeros: "<<endl;
 
@@ -31,7 +31,7 @@ int main()
 void shellSort(int a[], int n)
 {
     //DECLARACION DE VARIABLES
-    //ints GUARDA LAS PARTICIONES, aux EL ELEMENTO MAS PEQUEÑO
+    //ints GUARDA LAS PARTICIONES, aux EL ELEMENTO MAS PEQUEÃ‘O
     int ints, i, aux;
     bool band;
 
