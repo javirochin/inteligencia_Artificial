@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>//LIBRERIA PARA PODER USAR SETW
 
-#define T 100//DEFINO UNA VARIABLE T DE TAMAÑO 100
+#define T 100//DEFINO UNA VARIABLE T DE TAMAÃ‘O 100
 
 using namespace std;
 
@@ -13,7 +13,7 @@ int main()
 {
     //DEFINICIO DE VARIABLES Y ARREGLO, EL ARREGLO TOMA EL VALOR DE T(100)
     int n, A[T];
-    cout <<"Tamaño del array: ";
+    cout <<"TamaÃ±o del array: ";
     cin>>n;//TOMA EL VALOR A INGRESAR
     cout<<"Ingresa un numero: "<<endl;
 
