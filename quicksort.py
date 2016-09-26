@@ -13,9 +13,10 @@ def quicksort(lista,izq,der):
         while x<lista[j] and j>izq:
             j=j-1
         if i<=j:
-            aux = lista[i]; lista[i] = lista[j]; lista[j] = aux;
-            i=i+1;  j=j-1;
- 
+            aux = lista[i]
+            lista[i] = lista[j]
+            lista[j] = aux
+            i=i+1;  j=j-1
         if izq < j:
             quicksort( lista, izq, j )
     if i < der:

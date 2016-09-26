@@ -13,5 +13,4 @@ for i in range(0, l-1):
 			temp = lista[j]
 			lista[min] = lista[i]
 			lista[i] = temp
-
-			
+print lista

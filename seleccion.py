@@ -14,3 +14,4 @@ for i in range(1,len(lista)):
 			j = j-1
 		else:
 			break
+print lista
