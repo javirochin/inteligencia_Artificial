@@ -1,0 +1,2 @@
+puse el main en el repositorio donde estan los demas algoritmos, pero ya puse la carpeta del grafo aqui para que haya un orden. Saludos, que tenga un fin bien chilo! 
+Atte el guero XD
