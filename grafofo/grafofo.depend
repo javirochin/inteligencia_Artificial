@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475910719 source:c:\users\salmabibiana\documents\javier noveno\programacion\grafofo\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+
