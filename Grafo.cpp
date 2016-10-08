@@ -57,8 +57,8 @@ while(!que.empty())
     int frente = que.front();
     cout<<frente<<" ";
     que.pop();
-    //obtiene todos los vértices adyacentes del vértice quitado de la cola s
-    //si un vértice adyacente no ha sido visitado,
+    //obtiene todos los vÃ©rtices adyacentes del vÃ©rtice quitado de la cola s
+    //si un vÃ©rtice adyacente no ha sido visitado,
     //entonces se marca como visitado
     //y lo pongo en la cola
 	for(vector<int>::iterator it=nodos[frente].begin();
